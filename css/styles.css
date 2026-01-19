@@ -72,8 +72,8 @@ img {
 }
 
 .header .logo {
-  height: 120px;
-  width: auto;
+  width: 350px;
+  height: auto;
   display: block;
 }
 
@@ -425,7 +425,7 @@ nav {
 --------------------------- */
 @media screen and (max-width: 768px) {
   .header .logo {
-    height: 90px;
+    width: 280px;
   }
   
   .logo-container {
